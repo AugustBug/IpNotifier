@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<Settings>
+	<Subscribers>
+		<Subscriber>august.bug@outlook.com</Subscriber>
+		<Subscriber>august.bug10@gmail.com</Subscriber>
+	</Subscribers>
+	<From>august.bug@jungle.com</From>
+	<IntervalSec>5</IntervalSec>
+	<SmtpHost>pop.mynet.com</SmtpHost>
+	<SmtpPort>587</SmtpPort>
+	<MailAddress>iptracker@mynet.com</MailAddress>
+	<MailPassword>s******</MailPassword>
+	<MailHeader>Ip Change</MailHeader>
+</Settings>
